@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">修仙经验</string>
+    <string name="经验HIT">0</string>
+    <string name="经验默认">0</string>
+    <string name="level_now">当前等级</string>
+    <string name="exp_now">当前经验</string>
+    <string name="计算">计算</string>
+    <string name="level_to">目标等级</string>
+    <string name="dongfu">洞府经验</string>
+    <string name="加成Hit">233%输入233</string>
+    <string name="jiac">加成</string>
+    <string name="游历经验">游历经验</string>
+    <string name="盟友">盟友探险</string>
+    <string name="Tip">由于磕丹药幻影，\n游历剧情\n等不可控因素，\n请及时重新计算\n(目前仅支持成仙前</string>
+    <string name="等级Tip">等级默认满经验状态\n例如要到141级\n需要输入140\n便可计算出到140满级时间\n即突破时间</string>
+</resources>
